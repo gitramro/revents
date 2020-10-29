@@ -1,3 +1,5 @@
+Followers feature is unavailable because I didnt enable the billing on Firebase
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
